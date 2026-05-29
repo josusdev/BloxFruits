@@ -1,4 +1,5 @@
-Floating Turtle Quests
+========== Floating Turtle Quests ==========
+
 Fishman Raider Quest (Lv. 1775): Defeat 8 Fishman Raiders.
 
 Fishman Captain Quest (Lv. 1800): Defeat 8 Fishman Captains.
@@ -15,14 +16,14 @@ Musketeer Pirate Quest (Lv. 1925): Defeat 8 Musketeer Pirates.
 
 Beautiful Pirate Quest (Lv. 1950): Defeat Boss Beautiful Pirate.
 
-Citizen Questline (Lv. 1800+)
+========== Citizen Questline (Lv. 1800+) ==========
 Quest 1: Defeat 50 Forest Pirates.
 
 Quest 2: Defeat Boss Captain Elephant.
 
 Quest 3: Find 3 hidden apples on Floating Turtle.
 
-Horned Man / Instinct Teacher Quest (Rainbow Savior)
+========== Horned Man / Haki Color Quest (Rainbow Savior) ==========
 Quest 1: Defeat Boss Stone (Starter Island).
 
 Quest 2: Defeat Boss Island Emperor (Hydra Island).
@@ -30,5 +31,13 @@ Quest 2: Defeat Boss Island Emperor (Hydra Island).
 Quest 3: Defeat Boss Kilo Admiral (Great Tree).
 
 Quest 4: Defeat Boss Captain Elephant (Floating Turtle).
+
+========== Hungry Man / Instinct V2 ==========
+Quest 1: Find 3 hidden apples on Floating Turtle.
+
+Quest 2: When u have the apples Talk Citizen.
+
+Quest 3: Return, Give the fruits to Hungry Man.
+
 
 Quest 5: Defeat Boss Beautiful Pirate (Floating Turtle).
