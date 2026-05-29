@@ -32,6 +32,8 @@ Quest 3: Defeat Boss Kilo Admiral (Great Tree).
 
 Quest 4: Defeat Boss Captain Elephant (Floating Turtle).
 
+Quest 5: Defeat Boss Beautiful Pirate (Floating Turtle).
+
 ========== Hungry Man / Instinct V2 ==========
 Quest 1: Find 3 hidden apples on Floating Turtle.
 
@@ -40,4 +42,4 @@ Quest 2: When u have the apples Talk Citizen.
 Quest 3: Return, Give the fruits to Hungry Man.
 
 
-Quest 5: Defeat Boss Beautiful Pirate (Floating Turtle).
+
