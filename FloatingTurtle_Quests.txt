@@ -1,0 +1,34 @@
+Floating Turtle Quests
+Fishman Raider Quest (Lv. 1775): Defeat 8 Fishman Raiders.
+
+Fishman Captain Quest (Lv. 1800): Defeat 8 Fishman Captains.
+
+Forest Pirate Quest (Lv. 1825): Defeat 8 Forest Pirates.
+
+Mythological Pirate Quest (Lv. 1850): Defeat 8 Mythological Pirates.
+
+Captain Elephant Quest (Lv. 1875): Defeat Boss Captain Elephant.
+
+Jungle Pirate Quest (Lv. 1900): Defeat 8 Jungle Pirates.
+
+Musketeer Pirate Quest (Lv. 1925): Defeat 8 Musketeer Pirates.
+
+Beautiful Pirate Quest (Lv. 1950): Defeat Boss Beautiful Pirate.
+
+Citizen Questline (Lv. 1800+)
+Quest 1: Defeat 50 Forest Pirates.
+
+Quest 2: Defeat Boss Captain Elephant.
+
+Quest 3: Find 3 hidden apples on Floating Turtle.
+
+Horned Man / Instinct Teacher Quest (Rainbow Savior)
+Quest 1: Defeat Boss Stone (Starter Island).
+
+Quest 2: Defeat Boss Island Emperor (Hydra Island).
+
+Quest 3: Defeat Boss Kilo Admiral (Great Tree).
+
+Quest 4: Defeat Boss Captain Elephant (Floating Turtle).
+
+Quest 5: Defeat Boss Beautiful Pirate (Floating Turtle).
