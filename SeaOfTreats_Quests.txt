@@ -1,0 +1,39 @@
+Sea of Treats Quests
+Cookie Pirate Quest (Lv. 2075): Defeat 8 Cookie Pirates.
+
+Cake Guard Quest (Lv. 2100): Defeat 8 Cake Guards.
+
+Baking Chef Quest (Lv. 2125): Defeat 8 Baking Chefs.
+
+Head Chef Quest (Lv. 2150): Defeat 8 Head Chefs.
+
+Cocoa Warrior Quest (Lv. 2175): Defeat 8 Cocoa Warriors.
+
+Chocolate Bar Battler Quest (Lv. 2200): Defeat 8 Chocolate Bar Battlers.
+
+Sweet Thief Quest (Lv. 2225): Defeat 8 Sweet Thieves.
+
+Candy Rebel Quest (Lv. 2250): Defeat 8 Candy Rebels.
+
+Candy Pirate Quest (Lv. 2275): Defeat 8 Candy Pirates.
+
+Snow Demon Quest (Lv. 2300): Defeat 8 Snow Demons.
+
+Isle Champion Quest (Lv. 2325): Defeat 8 Isle Champions.
+
+Island Boy Quest (Lv. 2350): Defeat 8 Island Boys.
+
+Sun Sun Soldier Quest (Lv. 2375): Defeat 8 Sun Sun Soldiers.
+
+Sun Sun Homie Quest (Lv. 2400): Defeat 8 Sun Sun Homies.
+
+Cookie Crafter Quest (Lv. 2425): Defeat 8 Cookie Crafters.
+
+Cake Queen Quest (Lv. 2175): Defeat Boss Cake Queen.
+
+Cake Prince (Lv. 2300): Defeat Boss Cake Prince (Spawned by defeating 500 enemies on Candy Island).
+
+Dough King (Lv. 2300): Defeat Boss Dough King (Spawned using Sweet Chalice and defeating 500 enemies on Candy Island).
+
+Level to Finish Island
+Finish Level: 2450
